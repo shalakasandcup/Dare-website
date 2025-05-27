@@ -28,11 +28,10 @@
                 </div>
             </div>
             <div class="main-menu-wrapper">
-                <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="collapse navbar-collapse container" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="">
-                            </a>
+                            <a class="nav-link" href="">About</a>
                         </li>
                     </ul>
                 </div>

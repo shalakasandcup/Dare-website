@@ -106,6 +106,18 @@ h2 {
     font-size: clamp(24px, 5vw, 64px);
 }
 
+h3 {
+    font-size: 32px; /* based on 24px */
+}
+
+h5 {
+    font-size: 20px; /* based on 16px */
+}
+
+p {
+    font-size: 26px; /* based on 20px */
+}
+
 .dm_light {
     font-family: 'DM Sans Light';
 }
