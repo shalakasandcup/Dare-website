@@ -5,7 +5,7 @@
     
     
     
-    <div class="main"></div>
+    <div class="main home"></div>
 
 
 
