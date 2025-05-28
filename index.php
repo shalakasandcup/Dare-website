@@ -8,7 +8,9 @@
     <section class="vision-wrapper sec-space">
         <div class="container">
             <div class="row">
-                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    <h2>Familiar Face, Rising Vision</h2>
+                </div>
             </div>
         </div>
     </section>
