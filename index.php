@@ -2,6 +2,15 @@
     <?php include 'header.php'; ?>
 
 
-<?php include 'footer.php'; ?>
+    
+    
+    
+    <div class="main"></div>
 
+
+
+
+
+    
+<?php include 'footer.php'; ?>
 </body>
